@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to his highness the Lord Protector from Captain Unton Crooke, signifying the totall defeat of the Cavaliers in the west, under the command of Sir Joseph Wagstaffe. Published by his highness special commandment.</title>
+            <author>Croke, Unton.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81051</idno>
+            <idno type="STC">Wing C7232</idno>
+            <idno type="STC">Thomason E830_15</idno>
+            <idno type="STC">ESTC R207445</idno>
+            <idno type="EEBO-CITATION">99866494</idno>
+            <idno type="PROQUEST">99866494</idno>
+            <idno type="VID">118769</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81051)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118769)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 126:E830[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to his highness the Lord Protector from Captain Unton Crooke, signifying the totall defeat of the Cavaliers in the west, under the command of Sir Joseph Wagstaffe. Published by his highness special commandment.</title>
+                  <author>Croke, Unton.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills and John Field, printers to his highness,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654. [i.e. 1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wagstaffe, Joseph, --  Sir.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118769:1" rendition="simple:additions"/>
+            <p>A LETTER TO His Highneſs THE <hi>LORD PROTECTOR</hi> From Captain UNTON CROOKE, Signifying the totall Defeat of the Cavaliers in the Weſt, under the Command of Sir <hi>JOSEPH WAGSTAFFE.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by His Highneſs ſpecial Commandment.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills</hi> and <hi>John Field,</hi> Printers to His Highneſs, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118769:2"/>
+            <pb n="1" facs="tcp:118769:2"/>
+            <head>A LETTER TO His Highneſs THE <hi>LORD PROTECTOR, Signifying the totall Defeat of the</hi> Cavalliers <hi>in the</hi> Weſt, <hi>under the Command of Sir</hi> Joſeph Wagſtaff.</head>
+            <opener>
+               <salute>May it pleaſe Your Highneſs,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Eſterday morning, being Tueſday, <hi>I</hi> marched with my Troop to <hi>Huninton,</hi> being fifteen miles Eaſt<g ref="char:EOLhyphen"/>ward from <hi>Exon,</hi> with intention to
+<pb n="2" facs="tcp:118769:3"/>ſtop the Enemy from coming fur<g ref="char:EOLhyphen"/>ther Weſtward; but gaining intel<g ref="char:EOLhyphen"/>ligence that they were come that way, and that they would be too ſtrong for me, I made my retreat to <hi>Exon;</hi> the next morning I under<g ref="char:EOLhyphen"/>ſtood that they were in their march for <hi>Cornwal,</hi> and in order thereun<g ref="char:EOLhyphen"/>to they were come to <hi>Collumpton,</hi> within ten Miles of <hi>Exon,</hi> I heard they were much tyred, and their number two hundred, and there<g ref="char:EOLhyphen"/>fore imagined that if they ſhould gain <hi>Cornwal,</hi> it might be much pre<g ref="char:EOLhyphen"/>judicial; I was reſolved to hazard all that was dear to me rather than let them have their End, and ther<g ref="char:EOLhyphen"/>fore marched towards <hi>Collumpton</hi> with only my own Troop, I had no more for this Service, but when I came near that place, I underſtood
+<pb n="3" facs="tcp:118769:3"/>they were marched to <hi>Tiverton,</hi> whither I purſued them with all ſpeed, but there miſt them alſo, but received Information that from thence they were gone to <hi>South<g ref="char:EOLhyphen"/>molton,</hi> twelve miles further, ſtill in order for <hi>Cornwal;</hi> thither I reſolved to follow them; they took up their quarters about ſeven of the Clock this night, and by the good provi<g ref="char:EOLhyphen"/>dence of God, directing and aſſiſt<g ref="char:EOLhyphen"/>ing me, I beat up their Quarters a<g ref="char:EOLhyphen"/>bout ten of the Clock; they diſpu<g ref="char:EOLhyphen"/>ted it very much with me in the Houſes for more than two hours, firing very hot out of the windows; they ſhot ſeven or eight of my men, but none I hope mortally wounded, they ſhot many of my Horſes alſo; but, My Lord, we broke open many Houſes; ſome
+<pb n="4" facs="tcp:118769:4"/>of them yielded to mercy; <hi>I</hi> promi<g ref="char:EOLhyphen"/>ſed them, I would uſe my endea<g ref="char:EOLhyphen"/>vours to intercede for their lives, <hi>I</hi> have taken moſt of their Horſes, a<g ref="char:EOLhyphen"/>bout fifty Priſoners, amongſt whom are <hi>Penruddock, Iones,</hi> and <hi>Grove,</hi> who commanded thoſe Horſe, each of them having a Troop. <hi>Wagſtaff I</hi> fear is eſcaped, he was with them, but at preſent <hi>I</hi> cannot find him, yet hope to catch him as ſoon as Day<g ref="char:EOLhyphen"/>light appears. <hi>I</hi> will raiſe the Coun<g ref="char:EOLhyphen"/>try to apprehend ſuch Straglers, which for want of having <hi>Dragoons</hi> narrowlie eſcaped me. My Lord, they are all broken and routed, and <hi>I</hi> deſire the Lord may have the glo<g ref="char:EOLhyphen"/>rie. <hi>I</hi> beſeech your Highneſs to par<g ref="char:EOLhyphen"/>don this unpoliſht account, <hi>I</hi> can hardly indeed write, being ſo wea<g ref="char:EOLhyphen"/>rie with extream dutie, but <hi>I</hi> hope
+<pb n="5" facs="tcp:118769:4"/>by the next to ſend your Highneſs a more perfect one, and a Liſt of the Priſoners, many of them, J ſup<g ref="char:EOLhyphen"/>poſe being very conſiderable. Co<g ref="char:EOLhyphen"/>lonel <hi>Shapcot</hi> of this County was pleaſed to march with me on this Deſign, and was with me at the bea<g ref="char:EOLhyphen"/>ting up of their Quarters, and hath ſhewed himſelf wonderfull ready, in every reſpect, to preſerve the Peace of this County. My Lord, <hi>I</hi> remain,</p>
+            <closer>
+               <signed>
+                  <hi>May it pleaſe your Highneſs, Your moſt obedient, and moſt humble Servant,</hi> UNTON CROOK,</signed>
+               <dateline>From <hi>South Moulton</hi> 
+                  <date>
+                     <hi>March</hi> 15. 1654.</date> a<g ref="char:EOLhyphen"/>bout two or three a clock in the morning.</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
